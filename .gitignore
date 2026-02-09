@@ -1,0 +1,27 @@
+# -----------------
+# Video data
+# -----------------
+real/
+fake/
+*.mp4
+*.avi
+
+# -----------------
+# Virtual environment
+# -----------------
+venv/
+env/
+.venv/
+
+# -----------------
+# Debug / temporary
+# -----------------
+debug_frames/
+__pycache__/
+*.pyc
+
+# -----------------
+# Editor / IDE
+# -----------------
+.vscode/
+.idea/
